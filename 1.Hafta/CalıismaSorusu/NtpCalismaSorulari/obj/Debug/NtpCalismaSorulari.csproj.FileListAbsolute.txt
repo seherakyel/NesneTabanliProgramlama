@@ -1,0 +1,7 @@
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\obj\Debug\NtpCalismaSorulari.csprojAssemblyReference.cache
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\obj\Debug\NtpCalismaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\bin\Debug\NtpCalismaSorulari.exe.config
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\bin\Debug\NtpCalismaSorulari.exe
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\bin\Debug\NtpCalismaSorulari.pdb
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\obj\Debug\NtpCalismaSorulari.exe
+C:\Users\SEHER\source\repos\NtpCalismaSorulari\NtpCalismaSorulari\obj\Debug\NtpCalismaSorulari.pdb

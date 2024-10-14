@@ -1,0 +1,15 @@
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.Form1.resources
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.GenerateResource.cache
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\Images\hangman1.png
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\Images\hangman0.png
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\Images\hangman2.png
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\Images\hangman3.png
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\Images\hangman4.png
+C:\Users\SEHER\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\Images\hangman5.png

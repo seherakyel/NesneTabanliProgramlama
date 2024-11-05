@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E6CE6A53-6833-428F-9393-ADF81B6B9944}</ProjectGuid>
+    <ProjectGuid>{06E9107A-10AC-4A8A-A091-B6A4C6EB5F91}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NtpSorular_4_5_6</RootNamespace>
-    <AssemblyName>NtpSorular 4-5-6</AssemblyName>
+    <RootNamespace>_4.Hafta_Ödevi</RootNamespace>
+    <AssemblyName>4.Hafta Ödevi</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
